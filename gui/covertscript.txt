@@ -1,0 +1,4 @@
+pyuic5 -x gui_m2.ui -o gui_m2.py
+
+Note: make sure the virtual environement has been set to (venv)
+Activate virtual env: D:\Users\Leong\Documents\FYP\venv\Scripts\activate.bat
